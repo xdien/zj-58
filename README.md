@@ -5,7 +5,7 @@ CUPS filter for cheap thermal receipt printers as Zijiang ZJ-58, XPrinter XP-58,
 
 Originally it was reverse-engineered filter for Zijiang zj-58 with it's specific PPD,
 but later it is revealed that it actually works with many other cheap 58mm printers, like
-Xprinter XP-58.
+Xprinter XP-58, zonerich AB-58D
 
 Features
 --------
