@@ -62,6 +62,7 @@ Installation implies restarting CUPS service, and also putting built files to sy
 
 ```
   sudo make install
+  ln -s /usr/lib/cups/filter/rastertozj /usr/libexec/cups/filter/rastertozj(gentoo)
 ```
 
 Cmake script has both installation scenarios for Linux and Mac Os X.
